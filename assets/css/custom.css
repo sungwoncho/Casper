@@ -1,0 +1,27 @@
+.main-header-content {
+  background-color: rgba(56, 56, 56, 0.8);
+  padding: 3em 0;
+}
+
+.introduction {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-header-content a {
+  color: #fff;
+}
+
+.main-header-content a:hover {
+  color: #D5D5D5;
+}
+
+.call-to-action h5 {
+  text-align: center;
+}
+
+.call-to-action iframe {
+  margin-left: auto;
+  margin-right: auto;
+}
