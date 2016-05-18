@@ -1417,7 +1417,8 @@ body:not(.post-template) .post-title {
     -webkit-align-items: stretch;
     -ms-flex-align: stretch;
     align-items: stretch;
-    margin-top: 10rem;
+    /*margin-top: 10rem;*/
+    margin-top: 0;
 }
 
 .read-next-story {
